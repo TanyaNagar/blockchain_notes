@@ -10,6 +10,10 @@ that can be accessed only by permissioned network members.
 KEY ELEMENTS OF BLOCKCHAIN:
 
   a. Distributed ledger technology :
-     
+     A distributed ledger is a type of database that is shared, replicated, and synchronized among the members of a decentralized network.
+     The distributed ledger records the transactions, such as the exchange of assets or data, among the participants in the network.
   b. Immutable records :
-  c. Smart contracts :
+     No participant can change or tamper with a transaction after it’s been recorded to the shared ledger. 
+  c. Smart contracts 
+     To speed transactions, a set of rules — called a smart contract — is stored on the blockchain and executed automatically.
+     A smart contract can define conditions for corporate bond transfers, include terms for travel insurance to be paid and much more.
